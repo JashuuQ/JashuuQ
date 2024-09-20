@@ -1,16 +1,16 @@
-## Hi there 👋
+## Jiashu.Q
 
-<!--
-**JashuuQ/JashuuQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+🎓 Current Graduate student in **Computer Science** at [Northeastern University](https://www.northeastern.edu/)
 
-Here are some ideas to get you started:
+🔬 Research Work: Machine Learning ([Graph Neural Network](https://dl.acm.org/doi/10.1145/3583780.3614834))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [iqjs0124@gmail.com](mailto:iqjs0124@gmail.com)
+
+
+
+##### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Stats**:
+![JashuuQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JashuuQ&show_icons=true&theme=radical)
