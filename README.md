@@ -1,7 +1,7 @@
 ## Jiashu.Q
 
 #### About
-🎓 Current Graduate student in **Computer Science** at [Northeastern University](https://www.northeastern.edu/)
+🎓 Current Graduate student in **Computer Science** at [NU](https://www.northeastern.edu/)
 
 🔬 Research Work: Machine Learning ([Graph Neural Network](https://dl.acm.org/doi/10.1145/3583780.3614834))
 
