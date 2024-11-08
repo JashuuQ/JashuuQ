@@ -1,6 +1,6 @@
 ## Jiashu.Q
 
-#### About
+#### About Me
 🎓 Current Graduate student in **Computer Science** @ [Northeastern](https://www.northeastern.edu/)
 
 🎓 Bachelor's degree @ [ZJU](https://www.zju.edu.cn)
