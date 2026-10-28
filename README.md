@@ -3,7 +3,7 @@
 #### About Me
 💼 Current Work @Google
 
-🎓 Graduate student in **Computer Science** @ [Northeastern](https://www.northeastern.edu/), Bachelor's degree @ [ZJU](https://www.zju.edu.cn)
+🎓 M.S. in CS @ [Northeastern](https://www.northeastern.edu/), B.S. @ [ZJU](https://www.zju.edu.cn)
 
 🔬 Research Work: Machine Learning ([Graph Neural Network](https://dl.acm.org/doi/10.1145/3583780.3614834))
 
